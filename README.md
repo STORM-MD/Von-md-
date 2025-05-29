@@ -74,3 +74,9 @@
   <br><br>
   <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action" style="border: 5px solid #FFD700; border-radius: 10px; box-shadow: 0 0 15px #FFD700;">
+  <br><br>
+  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
+</p>
