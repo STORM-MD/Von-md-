@@ -64,34 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR4cTh2N3l3Z2x0eWo3aHZjaGV0eWo0b2xmbWZ3YXh0eXJxanRhZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action"/>
-  <br><br>
-  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" style="border-radius: 50%; border: 5px solid gold;" />
-  <br><br>
-  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action" style="border: 5px solid #FFD700; border-radius: 10px; box-shadow: 0 0 15px #FFD700;">
   <br><br>
-  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
-</p>
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" 
-    alt="KINGVON MD Bot in Action" 
-    width="250" 
-    style="
-      border-radius: 50%;
-      border: 6px solid #FFD700;
-      box-shadow: 0 0 25px #FFD700;
-    " 
-  />
-  <br><br>
-  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
+  <i><b>KINGVON MD is a savage 💥 **enjoy**</b></i>
 </p>
