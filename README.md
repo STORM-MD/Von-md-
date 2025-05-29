@@ -68,3 +68,9 @@
   <br><br>
   <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" style="border-radius: 50%; border: 5px solid gold;" />
+  <br><br>
+  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
+</p>
