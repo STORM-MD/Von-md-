@@ -87,7 +87,6 @@
 </p>
 
 <p align="center">
-  <!-- Heartbeat Glowing Logo -->
   <img 
     src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
     alt="KINGVON MD Logo" 
