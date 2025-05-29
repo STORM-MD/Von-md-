@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ KINGVON MD - Next-Gen WhatsApp Bot ⚡
+  ⚡ KINGVON MD WhatsApp Bot ⚡
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-> ⚠️ **KINGVON MD** is a full-featured WhatsApp bot built with **Baileys Multi-Device**, designed to be lightning-fast ⚡, modular 🧩, and intelligent 🤖. Whether it's group moderation, media tools, or AI — **KINGVON MD** does it all with style.
+> ⚠️ **KINGVON MD** is a full-featured WhatsApp bot built with by KINGVON , designed to be lightning-fast ⚡, modular 🧩, and intelligent 🤖. Whether it's group moderation, media tools, or AI — **KINGVON MD** does it all with style.
 
 ---
 
@@ -23,14 +23,14 @@
 
 | 🔧 Feature        | 💥 Description |
 |------------------|----------------|
-| 🤖 `.ai`          | GPT-powered chatbot |
-| 🎬 `.download`    | Download from YT, TikTok, IG, FB, etc. |
-| 🎨 `.sticker`     | Convert image/video to sticker |
-| 🧰 `.tools`       | Utilities like QR generator, hash, text case |
-| 🛡️ `.antilink`    | Group protection from unwanted links |
-| 🚷 `.antibadword` | Filter and punish for offensive words |
-| 📢 `.broadcast`   | Owner message broadcast |
-| ⚙️ `.addnew`      | Add custom commands dynamically |
+| 🤖 ai             | GPT-powered chatbot |
+| 🎬 download       | Download from YT, TikTok, IG, FB, etc. |
+| 🎨 sticker        | Convert image/video to sticker |
+| 🧰 tools          | Utilities like QR generator, hash, text case |
+| 🛡️ antilink       | Group protection from unwanted links |
+| 🚷 antibadword    | Filter and punish for offensive words |
+| 📢 broadcast      | Owner message broadcast |
+| ⚙️ addnew         | Add custom commands dynamically |
 | 🧬 Modules        | Add new features easily via folders |
 | 🧠 AI Engine      | GPT + Text2Image (Experimental) |
 | 🌐 Web Dashboard  | Online control panel for bot session |
@@ -51,15 +51,4 @@
 
 ---
 
-## 🚀 Installation & Launch
-
-```sh
-# 1. Clone the repository
-git clone https://github.com/SilverTosh/VON-MD.git
-cd VON-MD
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the bot
-node index.js
+## 🚀 
