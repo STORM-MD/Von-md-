@@ -3,7 +3,7 @@
 KINGVON
 
 📝 | Created By KINGVON 
-🖥️ | Base Ori By KINGVON 
+🖥️ | Base By KINGVON 
 📝 | Created By KINGVON 
 📌 |Credits KINGVON 
 📱 |Chat wa:254720326316
