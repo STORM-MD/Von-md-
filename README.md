@@ -1,5 +1,10 @@
+<h1 align="center">
+  ⚡ KINGVON MD - Next-Gen WhatsApp Bot ⚡
+</h1>
 
-# 🤖 KINGVON MD - Next-Gen WhatsApp Bot
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Next+Evolution+of+WhatsApp+Bots;KINGVON+MD+is+Live+24%2F7!;Multi-Device,+AI-Powered,+Modular,+Insane!&font=Fira+Code&center=true&width=750&height=45&color=0FFF00&vCenter=true" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/KINGVON-MD-blueviolet?style=for-the-badge" />
@@ -8,44 +13,53 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
 </p>
 
-> KINGVON MD is a full-featured WhatsApp bot built with **Baileys Multi-Device**, crafted to be modular, fast, reliable, and smart. From AI chat to media downloading, group moderation to developer tools — this bot does it all.
+---
+
+> ⚠️ **KINGVON MD** is a full-featured WhatsApp bot built with **Baileys Multi-Device**, designed to be lightning-fast ⚡, modular 🧩, and intelligent 🤖. Whether it's group moderation, media tools, or AI — **KINGVON MD** does it all with style.
 
 ---
 
-## 🔥 Highlights
+## 🌟 Features at a Glance
 
-- 📥 **Media Downloader** – YouTube, TikTok, Facebook, IG, and more
-- 🧠 **AI Chatbot** – GPT-powered chat with `.ai` command
-- 🛠️ **Utility Tools** – Text case converter, hash gen, qr/barcode, etc.
-- 🎭 **Sticker Maker** – Make static, animated, or video stickers
-- 🚫 **Anti-Features** – Antilink, antibadword, autoreact, autoblock
-- 🧑‍💻 **Owner Controls** – Remote restart, broadcast, command adder
-- 📊 **Web Dashboard Ready** – Manage sessions and settings online
-- 🧩 **Modules** – Easy to extend, edit, and add new features
-- 🧾 **Command Loader** – All commands load dynamically via folders
-
----
-
-## 🧑‍💻 Developer Info
-
-- 👑 Name: **KINGVON**
-- 📞 WhatsApp: [wa.me/254720326316](https://wa.me/254720326316)
-- 💻 GitHub: [@SilverTosh](https://github.com/SilverTosh)
-- 🌍 Website: [https://kingvon.tech](https://kingvon.tech) *(placeholder)*
-- 🔗 Channel: [WhatsApp Channel](https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y)
-- 💬 Group: [Support Group](https://chat.whatsapp.com/HOjijD27VBUC9RiI9ObYvY)
+| 🔧 Feature        | 💥 Description |
+|------------------|----------------|
+| 🤖 `.ai`          | GPT-powered chatbot |
+| 🎬 `.download`    | Download from YT, TikTok, IG, FB, etc. |
+| 🎨 `.sticker`     | Convert image/video to sticker |
+| 🧰 `.tools`       | Utilities like QR generator, hash, text case |
+| 🛡️ `.antilink`    | Group protection from unwanted links |
+| 🚷 `.antibadword` | Filter and punish for offensive words |
+| 📢 `.broadcast`   | Owner message broadcast |
+| ⚙️ `.addnew`      | Add custom commands dynamically |
+| 🧬 Modules        | Add new features easily via folders |
+| 🧠 AI Engine      | GPT + Text2Image (Experimental) |
+| 🌐 Web Dashboard  | Online control panel for bot session |
+| 🎯 Auto React     | Bot reacts to commands & statuses |
 
 ---
 
-## 🚀 Getting Started
+## 👑 Developer Info
 
-```bash
-# Clone the repository
+<p align="center">
+  <a href="https://wa.me/254720326316"><img src="https://img.shields.io/badge/Contact-KINGVON-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/SilverTosh"><img src="https://img.shields.io/badge/GitHub-SilverTosh-6e40c9?style=for-the-badge&logo=github" /></a>
+  <a href="https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y"><img src="https://img.shields.io/badge/Channel-KINGVON-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://chat.whatsapp.com/HOjijD27VBUC9RiI9ObYvY"><img src="https://img.shields.io/badge/Support%20Group-Join-blue?style=for-the-badge&logo=whatsapp" /></a>
+</p>
+
+> 💻 Website: [https://kingvon.tech](https://kingvon.tech) *(coming soon)*
+
+---
+
+## 🚀 Installation & Launch
+
+```sh
+# 1. Clone the repository
 git clone https://github.com/SilverTosh/VON-MD.git
 cd VON-MD
 
-# Install dependencies
+# 2. Install dependencies
 npm install
 
-# Start the bot (QR Login)
+# 3. Run the bot
 node index.js
