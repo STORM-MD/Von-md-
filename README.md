@@ -62,3 +62,9 @@
   <img src="https://img.shields.io/badge/VERSION-1.0-green?style=for-the-badge&logo=npm" style="border-radius: 50%;">
   <img src="https://img.shields.io/badge/BOT%20POWERED-🔥%20100%25-red?style=for-the-badge" style="border-radius: 50%;">
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR4cTh2N3l3Z2x0eWo3aHZjaGV0eWo0b2xmbWZ3YXh0eXJxanRhZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action"/>
+  <br><br>
+  <i><b>KINGVON MD in full swing — slick, sharp, savage 💥</b></i>
+</p>
