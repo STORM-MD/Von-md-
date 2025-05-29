@@ -47,7 +47,11 @@
   <a href="https://chat.whatsapp.com/HOjijD27VBUC9RiI9ObYvY"><img src="https://img.shields.io/badge/Support%20Group-Join-blue?style=for-the-badge&logo=whatsapp" /></a>
 </p>
 
-> 💻 Website: [https://evil-twin.onrender.com/](https://kingvon.tech)
+<p align="center">
+  <a href="https://kingvon.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20KINGVON.tech-Click%20Here-ff69b4?style=for-the-badge&logo=firefox&logoColor=white&color=FF1493&labelColor=FFD700" />
+  </a>
+</p>
 
 ---
 
