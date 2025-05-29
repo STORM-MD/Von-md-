@@ -64,6 +64,23 @@
 </p>
 
 <p align="center">
+  <img 
+    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
+    alt="KINGVON MD Logo" 
+    width="230" 
+    style="
+      border-radius: 50%;
+      border: 5px dashed #ffcc00;
+      box-shadow: 0 0 20px #ffcc00, 0 0 40px #ffd700;
+    "
+  />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=435&lines=KINGVON+MD+%F0%9F%94%A5;Glittering+WhatsApp+Bot+Power+%F0%9F%92%AF;Built+For+Speed%2C+Style+and+Smarts+%F0%9F%94%AB" alt="Typing SVG" />
+  <br>
+  <b><i>✨ Unleash brilliance, automation, and power. Welcome to KINGVON MD.</i></b>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action" style="border: 5px solid #FFD700; border-radius: 10px; box-shadow: 0 0 15px #FFD700;">
   <br><br>
   <i><b>KINGVON MD is a savage 💥 **enjoy**</b></i>
