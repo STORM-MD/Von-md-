@@ -85,3 +85,33 @@
   <br><br>
   <i><b>KINGVON MD is a savage 💥 **enjoy**</b></i>
 </p>
+
+<p align="center">
+  <!-- Heartbeat Glowing Logo -->
+  <img 
+    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
+    alt="KINGVON MD Logo" 
+    width="200" 
+    style="
+      border-radius: 50%;
+      border: 4px solid #FFD700;
+      box-shadow: 0 0 20px #FFD700;
+      animation: heartbeat 1.5s infinite ease-in-out;
+    "
+  />
+  <br><br>
+
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=435&lines=KINGVON+MD+is+Live+🔥;Music+Mode+Activated+🎧;Feel+the+Power+of+Automation+💡" alt="Typing SVG" />
+  
+  <!-- Music Bar Visual -->
+  <br>
+  <img 
+    src="https://media.giphy.com/media/IEl6b1R1t5l1q/giphy.gif" 
+    alt="Music Bar Playing" 
+    width="300" 
+    style="margin-top: 10px;"
+  />
+</p>
+
+<!-- GitHub ignores <style>, so heartbeat won't animate live in README -->
