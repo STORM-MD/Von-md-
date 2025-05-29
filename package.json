@@ -1,7 +1,7 @@
 {
-    "name": "Base-BotS-XMD",
+    "name": "KINGVON-MD",
     "version": "1.0.0",
-    "description": "Whatsapp base Bot By Giddy Tennor",
+    "description": "Whatsapp base Bot By KINGVON",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -11,7 +11,7 @@
     "scripts": {
         "start": "node ./index.js"
     },
-    "author": "GiddyTennor",
+    "author": "KINGVON",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
