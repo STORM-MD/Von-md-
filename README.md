@@ -38,7 +38,7 @@
 
 ---
 
-## 👑 Developer Info...{my info}..
+## 👑 Developer Info...{i meant my info}..
 
 <p align="center">
   <a href="https://wa.me/254720326316"><img src="https://img.shields.io/badge/Contact-KINGVON-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
