@@ -485,7 +485,7 @@ await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
 ╔═══〔 🔥 KINGVON MD - BOT CONTROL 🔥 〕═══╗
 ║ 👑 Creator   : 𝗞𝗜𝗡𝗚𝗩𝗢𝗡
-║ 🚀 Version   : 𝙉𝙚𝙬 𝙑𝙚𝙧𝙨𝙞𝙤𝙣
+║ 🚀 Version   : V2
 ║ 🛠️ Type      : 𝗖𝗮𝘀𝗲 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸
 ║ ⚡ Status    : ✅ 𝗥𝗲𝗮𝗱𝘆
 ║ 🌐 Mode      : ${bot.public ? '✱ 𝗣𝘂𝗯𝗹𝗶𝗰 ༣' : '✲ 𝗦𝗲𝗹𝗳 ༣'}
