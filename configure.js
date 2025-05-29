@@ -1,23 +1,23 @@
 /*
 > Recode script give credits to›
-Giddy Tennor
+KINGVON
 
-📝 | Created By Giddy Tennor
-🖥️ | Base Ori By Giddy Tennor 
-📝 | Created By Giddy Tennor
-📌 |Credits Giddy Tennor 
-📱 |Chat wa:254756182478
-👑 |Github: Tennor-modz 
-✉️ |Email: giddytennor@gmail.com
+📝 | Created By KINGVON 
+🖥️ | Base Ori By KINGVON 
+📝 | Created By KINGVON 
+📌 |Credits KINGVON 
+📱 |Chat wa:254720326316
+👑 |Github: SilverTosh
+✉️ |Email: kingvon64tho@gmail.com
 */
 const fs = require('fs')
 const chalk = require('chalk')
 //=================================================//
 // setting bot
-global.owner = "254756182478"
-global.ownername = "Giddy Tennor"
-global.botname = "Wa-Base-Bot"
-global.author = "254756182478"
+global.owner = "254720326316"
+global.ownername = "KINGVON"
+global.botname = "KINGVON MD"
+global.author = "254720326316"
 global.xprefix = '.'
 global.autostatus = true 
 global.Public = true 
