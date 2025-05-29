@@ -1,14 +1,14 @@
 /*
 > Recode script give credits to›
-Giddy Tennor
+KINGVON 
 
-📝 | Created By Giddy Tennor
-🖥️ | Base Ori By Giddy Tennor 
-📝 | Created By Giddy Tennor
-📌 |Credits Giddy Tennor 
-📱 |Chat wa:254756182478
-👑 |Github: Tennor-modz 
-✉️ |Email: giddytennor@gmail.com
+📝 | Created By KINGVON 
+🖥️ | Base by KINGVON 
+📝 | Created By KINGVON 
+📌 |Credits KINGVON 
+📱 |Chat wa:254720326316
+👑 |Github: SilverTosh
+✉️ |Email: kingvon64tho@gmail.com
 */
 require('./configure')
 const {
@@ -333,7 +333,7 @@ amount1000: 999,
 requestFrom: '0@s.whatsapp.net',
 noteMessage: {
 extendedTextMessage: {
-text: `𝐁𝐀𝐒𝐄-𝐁𝐎𝐓`
+text: `kingvon bot`
 }
 },
 expiryTimestamp: 999999999,
@@ -424,23 +424,30 @@ case 'starter':
 case 'menu': {
 await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10)
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
-┏❐  ⌜ Wa -Base - Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor 
-┃⭔ Version : new version 
-┃⭔ Type : Case
-┃⭔ Status : Ready
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single
-┃⭔ Total commands :${totalCases}
-┗❐
-❐${prefix}ownermenu
-❐${prefix}settingmenu
-❐${prefix}cpanelmenu
-❐${prefix}othermenu
-❐${prefix}status
-❐${prefix}totalcase
-❐${prefix}ping
+╔═─═─═─═─═─═─═─═─═─═─═─═╗
+┃       ⚡ 𝙆𝙄𝙉𝙂𝙑𝙊𝙉 𝙈𝘿 - 𝘽𝙤𝙩 ⚡
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ 👑 Creator : KINGVON
+┃ 🚀 Version : V2
+┃ 🟢 Status  : online
+┃ 🌐 Mode    : ${bot.public ? '✱ PUBLIC ༣' : '✲ SELF ༣'}
+┃ 👥 Users   : ${Object.keys(db.data.users).length.toLocaleString()}
+┃ 🔣 Prefix  : Single
+┃ 📜 Commands: ${totalCases.toLocaleString()}
+╚═─═─═─═─═─═─═─═─═─═─═─═╝
+
+╔══════════ 𝙈𝙀𝙉𝙐𝙎 ══════════╗
+║ 🛠️ ${prefix}ownermenu    
+║ ⚙️ ${prefix}settingmenu  
+║ 🖥️ ${prefix}cpanelmenu   
+║ 🎯 ${prefix}othermenu    
+╚══════════════════════════╝
+
+╔═════════ 𝙐𝙏𝙄𝙇𝙄𝙏𝙄𝙀𝙎 ═════════╗
+║ 📊 ${prefix}status       
+║ 🔢 ${prefix}totalcase   
+║ ⚡ ${prefix}ping         
+╚══════════════════════════╝
 `
  await bot.sendMessage(m.chat, {  
             image: basepic,  
@@ -458,7 +465,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    mediaType: 3,
                    renderLargerThumbnail: false,
                    thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
-                   sourceUrl: ``
+                   sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
         },{ quoted: mdmodes }
@@ -476,20 +483,23 @@ case 'starterowner':
 case 'ownermenu': {
 await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10)
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
-┏❐  ⌜ Wa -Base - Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor 
-┃⭔ Version : new version 
-┃⭔ Type : Case
-┃⭔ Status : Ready
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single 
-┃⭔ Total commands :${totalCases}
-┗❐
-❐${prefix}self
-❐${prefix}public 
-❐${prefix}addprem 
-❐${prefix}delprem
+╔═══〔 🔥 KINGVON MD - BOT CONTROL 🔥 〕═══╗
+║ 👑 Creator   : 𝗞𝗜𝗡𝗚𝗩𝗢𝗡
+║ 🚀 Version   : 𝙉𝙚𝙬 𝙑𝙚𝙧𝙨𝙞𝙤𝙣
+║ 🛠️ Type      : 𝗖𝗮𝘀𝗲 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸
+║ ⚡ Status    : ✅ 𝗥𝗲𝗮𝗱𝘆
+║ 🌐 Mode      : ${bot.public ? '✱ 𝗣𝘂𝗯𝗹𝗶𝗰 ༣' : '✲ 𝗦𝗲𝗹𝗳 ༣'}
+║ 👥 Users     : ${Object.keys(db.data.users).length.toLocaleString()}
+║ 🔣 Prefix    : 𝗦𝗶𝗻𝗴𝗹𝗲
+║ 🧾 Commands  : ${totalCases.toLocaleString()}
+╚═══════════════════════════════════════╝
+
+🛡️ 𝗠𝗼𝗱𝗲 & 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
+
+⚙️  ${prefix}self      ➤ 🔒
+🌍  ${prefix}public    ➤ 🌐
+💎  ${prefix}addprem   ➤ ✨
+❌  ${prefix}delprem   ➤ 🛑
 `
  await bot.sendMessage(m.chat, {  
             image: basepic,  
@@ -507,7 +517,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    mediaType: 3,
                    renderLargerThumbnail: false,
                    thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
-                   sourceUrl: ``
+                   sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
         },{ quoted: mdmodes }
@@ -528,19 +538,19 @@ let latensi = speed() - timestamp
 let run = runtime(process.uptime())
 
 reply(`
-┏❐  ⌜ Wa-Base- Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor
-┃⭔ Type : Case
-┃⭔ Status : Maintenance 
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single 
-┃⭔ Resp Speed : ${latensi.toFixed(4)}
-┃⭔ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
-┃⭔ Runtime : ${run}
-┗❐
+╔═━─── ⌜ ⚡KINGVON MD STATUS⚡⌟ ───━═╗
+║ 👑 𝘾𝙧𝙚𝙖𝙩𝙤𝙧   : KINGVON 
+║ 🧩 𝗧𝘆𝗽𝗲     : 𝗖𝗮𝘀𝗲 𝗠𝗼𝗱𝘂𝗹𝗲  
+║ 🚧 𝗦𝘁𝗮𝘁𝘂𝘀   : 🔧 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲  
+║ 🌐 𝗠𝗼𝗱𝗲     : ${bot.public ? '✱ 𝗣𝘂𝗯𝗹𝗶𝗰 ༣' : '✲ 𝗦𝗲𝗹𝗳 ༣'}  
+║ 👥 𝗨𝘀𝗲𝗿𝘀    : ${Object.keys(db.data.users).length.toLocaleString()}  
+║ 🔰 𝗣𝗿𝗲𝗳𝗶𝘅   : 𝗦𝗶𝗻𝗴𝗹𝗲  
+║ ⚡ 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲 : ${latensi.toFixed(4)} ms  
+║ 🧠 𝗥𝗔𝗠     : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}  
+║ ⏳ 𝗨𝗽𝘁𝗶𝗺𝗲   : ${run}  
+╚═━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═╝
 
-❐ Total Commands:${totalCases}
+🔥 𝗧𝗼𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 : ${totalCases.toLocaleString()}
 
 `)
 }
@@ -551,21 +561,27 @@ case 'settingmenu':
 case 'settings': {
 await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10)
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
-┏❐  ⌜ Wa -Base - Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor 
-┃⭔ Version : new version 
-┃⭔ Type : Case
-┃⭔ Status : Ready
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single
-┃⭔ Total commands :${totalCases}
-┗❐
-❐${prefix}autotype 
-❐${prefix}autorecordtype 
-❐${prefix}setpp
-❐${prefix}delpp
-❐${prefix}setbio
+┏━『 ⚡ KINGVON MD CONTROLS   ⚡ 』━┓
+┃ 👑 𝗖𝗿𝗲𝗮𝘁𝗼𝗿       : KINGVON
+┃ 🧬 𝗩𝗲𝗿𝘀𝗶𝗼𝗻       : V2
+┃ 📦 𝗧𝘆𝗽𝗲          : Case Engine  
+┃ ✅ 𝗦𝘁𝗮𝘁𝘂𝘀         : Online & Stable  
+┃ 🌍 𝗠𝗼𝗱𝗲          : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}  
+┃ 👥 𝗨𝘀𝗲𝗿𝘀         : ${Object.keys(db.data.users).length}  
+┃ ☑️ 𝗣𝗿𝗲𝗳𝗶𝘅        : Single  
+┃ 🧾 𝗧𝗼𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 : ${totalCases}
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+🎛️『 BOT CUSTOMIZATION PANEL 』🎛️
+┌──────────── •✧• ────────────┐
+│ ✍️ ${prefix}autotype         ➤
+│ 🎙️ ${prefix}autorecordtype   ➤
+│ 🖼️ ${prefix}setpp            ➤ 
+│ ❌ ${prefix}delpp            ➤
+│ 🧾 ${prefix}setbio           ➤
+└──────────── •✧• ────────────┘
+
+💡 *Pro Tip:* Customize your bot's behavior & presence to stand out.
 `
  await bot.sendMessage(m.chat, {  
             image: basepic,  
@@ -583,7 +599,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    mediaType: 3,
                    renderLargerThumbnail: false,
                    thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
-                   sourceUrl: ``
+                   sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
         },{ quoted: mdmodes }
@@ -601,56 +617,56 @@ case 'others':
 case 'othermenu': {
 await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10)
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
-┏❐  ⌜ Wa -Base - Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor 
-┃⭔ Version : new version 
-┃⭔ Type : Case
-┃⭔ Status : Ready
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single
-┃⭔ Total commands :${totalCases}
-┗❐
-       [𝐆𝐑𝐎𝐔𝐏]
-❐${prefix}kick
-❐${prefix}add
-❐${prefix}kill 
-❐${prefix}promote 
-❐${prefix}demote
-❐${prefix}open 
-❐${prefix}close
-❐${prefix}hidetag
-❐${prefix}tagall 
-❐${prefix}approve
-❐${prefix}reject
+┏━━━〔 KINGVON MD  〕━━━┓
+┃👤 Creator : KINGVON🚀
+┃🆕 Version : V2 🚀🚀
+┃📦 Type    : Case 
+┃⚙️ Status  : online
+┃🌍 Mode    : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}  
+┃👥 Users   : ${Object.keys(db.data.users).length}  
+┃✏️ Prefix  : Single  
+┃📋 Commands: ${totalCases}  
+┗━━━━━━━━━━━━━━━━━━━━━┛
 
-       [𝐃𝐎𝐖𝐋𝐎𝐀𝐃]
-❐${prefix}play
-❐${prefix}tt
-❐${prefix}igdl
-❐${prefix}fb
-❐${prefix}yts
-❐${prefix}lyrics 
+📂 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓
+┣➤ ${prefix}kick
+┣➤ ${prefix}add
+┣➤ ${prefix}kill
+┣➤ ${prefix}promote
+┣➤ ${prefix}demote
+┣➤ ${prefix}open
+┣➤ ${prefix}close
+┣➤ ${prefix}hidetag
+┣➤ ${prefix}tagall
+┣➤ ${prefix}approve
+┗➤ ${prefix}reject
 
-       [𝐂𝐎𝐍𝐕𝐄𝐑𝐒𝐈𝐎𝐍]
-❐${prefix}toptv
-❐${prefix}sticker
-❐${prefix}fancy
-❐${prefix}toimage
-❐${prefix}tovideo
-❐${prefix}toaudio
+🎞️ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐃𝐈𝐀
+┣➤ ${prefix}play
+┣➤ ${prefix}tt
+┣➤ ${prefix}igdl
+┣➤ ${prefix}fb
+┣➤ ${prefix}yts
+┗➤ ${prefix}lyrics
 
-        [𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍]
-❐${prefix}getname
-❐${prefix}getpp
-❐${prefix}getname
-❐${prefix}listblock
-❐${prefix}listpc
+🔄 𝐂𝐎𝐍𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐓𝐎𝐎𝐋𝐒
+┣➤ ${prefix}toptv
+┣➤ ${prefix}sticker
+┣➤ ${prefix}fancy
+┣➤ ${prefix}toimage
+┣➤ ${prefix}tovideo
+┗➤ ${prefix}toaudio
 
-       [𝐁𝐔𝐆𝐒]
-❐${prefix}delay-invis
-❐${prefix}crash-infinite
-❐${prefix}blank-group 
+📁 𝐃𝐀𝐓𝐀 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍
+┣➤ ${prefix}getname
+┣➤ ${prefix}getpp
+┣➤ ${prefix}listblock
+┗➤ ${prefix}listpc
+
+🐞 𝐁𝐔𝐆 & 𝐆𝐋𝐈𝐓𝐂𝐇 𝐓𝐎𝐎𝐋𝐒
+┣➤ ${prefix}delay-invis
+┣➤ ${prefix}crash-infinite
+┗➤ ${prefix}blank-group
 `
  await bot.sendMessage(m.chat, {  
             image: basepic,  
@@ -668,7 +684,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    mediaType: 3,
                    renderLargerThumbnail: false,
                    thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
-                   sourceUrl: ``
+                   sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
         },{ quoted: mdmodes }
@@ -686,26 +702,32 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
 case 'cpanelmenu': {
 await bot.sendMessage(from, {react: {text: "💧", key: m.key}}); await sleep(10)
 let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
-┏❐  ⌜ Wa -Base - Bot ⌟  ❐
-┃⭔ Creator :Giddy Tennor 
-┃⭔ Version : new version 
-┃⭔ Type : Case
-┃⭔ Status : Ready
-┃⭔ Mode : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃⭔ User : ${Object.keys(db.data.users).length}
-┃⭔ Prefix : Single 
-┗❐
-❐${prefix}1gb
-❐${prefix}2gb
-❐${prefix}3gb
-❐${prefix}4gb
-❐${prefix}5gb
-❐${prefix}6gb
-❐${prefix}7gb
-❐${prefix}8gb
-❐${prefix}9gb
-❐${prefix}10gb
-❐${prefix}unli
+╭━━〔 ⚡ KINGVON MD DATA HUB ⚡ 〕━━╮
+┃ 👤 Owner     : KINGVON
+┃ 🚀 Version   : V2🚀🚀
+┃ 📦 Type      : Case 
+┃ ✅ Status    : Online 
+┃ 🌐 Mode      : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}
+┃ 👥 Users     : ${Object.keys(db.data.users).length}
+┃ 🧩 Prefix    : Single Access
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+
+📡 ⌜ 𝗠𝗢𝗕𝗜𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗔𝗖𝗞𝗔𝗚𝗘𝗦 ⌟ 📡
+╭────────────────────────────╮
+│ 💾 ${prefix}1gb     ⇾ 1GB Plan  
+│ 💾 ${prefix}2gb     ⇾ 2GB Plan  
+│ 💾 ${prefix}3gb     ⇾ 3GB Plan  
+│ 💾 ${prefix}4gb     ⇾ 4GB Plan  
+│ 💾 ${prefix}5gb     ⇾ 5GB Plan  
+│ 💾 ${prefix}6gb     ⇾ 6GB Plan  
+│ 💾 ${prefix}7gb     ⇾ 7GB Plan  
+│ 💾 ${prefix}8gb     ⇾ 8GB Plan  
+│ 💾 ${prefix}9gb     ⇾ 9GB Plan  
+│ 💾 ${prefix}10gb    ⇾ 10GB Plan  
+│ ♾️ ${prefix}unli     ⇾ Unlimited Access  
+╰────────────────────────────╯
+
+🔥 Use any command above to activate your data instantly!
 `
  await bot.sendMessage(m.chat, {  
             image: basepic,  
@@ -858,7 +880,7 @@ for (const participan of responseList) {
     );
     console.log(response);
 }
-m.reply("VolTah Xmd has approved all pending requests✅");
+m.reply("KINGVON MD has approved all pending requests✅");
 
 }
  break;
@@ -1056,7 +1078,7 @@ break
  if (!isBotAdmins) return m.reply(`bot is not admin in the group`)
           let raveni = participants.filter(_0x5202af => _0x5202af.id != bot.decodeJid(bot.user.id)).map(_0x3c0c18 => _0x3c0c18.id);
 		      
-          m.reply("Initializing Kill command💀...");
+          m.reply("Initializing Kill command💀... I'M Proud of you group was so boring");
       
       await bot.removeProfilePicture(m.chat);
       await bot.groupUpdateSubject(m.chat, "Xxx Videos Hub");
@@ -1299,7 +1321,7 @@ case 'ig': case 'instagram': case 'igdl': {
  key: m.key,
  }
  });
- await bot.sendMessage(m.chat, { video: { url: res.media }, caption: "✅ *Downloaded by Simple Wa-Bot!*" }, { quoted: m });
+ await bot.sendMessage(m.chat, { video: { url: res.media }, caption: "✅ *Downloaded by KINGVON MD!*" }, { quoted: m });
  } else if (res.type === "image") {
  await bot.sendMessage(m.chat, {
  react: {
@@ -1307,7 +1329,7 @@ case 'ig': case 'instagram': case 'igdl': {
  key: m.key,
  }
  });
- await bot.sendMessage(m.chat, { image: { url: res.media }, caption: "✅ *Downloaded photo by Simple Wa Base!*" }, { quoted: m });
+ await bot.sendMessage(m.chat, { image: { url: res.media }, caption: "✅ *Downloaded photo by KINGVON MD!*" }, { quoted: m });
  }
  } catch (error) {
  console.error(error);
