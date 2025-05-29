@@ -15,7 +15,7 @@
 
 ---
 
-> ⚠️ **KINGVON MD** is a full-featured WhatsApp bot built with by KINGVON , designed to be lightning-fast ⚡, modular 🧩, and intelligent 🤖. Whether it's group moderation, media tools, or AI — **KINGVON MD** does it all with style.
+> ⚠️ **KINGVON MD** is a WhatsApp bot built by KINGVON , designed to be lightning-fast ⚡, modular 🧩, and intelligent 🤖. Whether it's group moderation, media tools, or AI — **KINGVON MD** does it all with style.
 
 ---
 
@@ -75,9 +75,9 @@
     "
   />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=435&lines=KINGVON+MD+%F0%9F%94%A5;Glittering+WhatsApp+Bot+Power+%F0%9F%92%AF;Built+For+Speed%2C+Style+and+Smarts+%F0%9F%94%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=435&lines=KINGVON+MD+%F0%9F%94%A5;WhatsApp+Bot+by+KINGVON+Power+is+%F0%9F%92%AF;Built+For+Speed%2C+Style+and+Smart+%F0%9F%94%AB" alt="Typing SVG" />
   <br>
-  <b><i>✨ Unleash brilliance, automation, and power. Welcome to KINGVON MD.</i></b>
+  <b><i>✨Welcome to KINGVON MD✨ 𝐌𝐎𝐎𝐃 𝐀𝐅𝐓𝐄𝐑 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐓𝐇𝐄 𝐁𝐎𝐓</i></b>
 </p>
 
 <p align="center">
