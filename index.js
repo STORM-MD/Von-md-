@@ -1,14 +1,14 @@
 /*
 > Recode script give credits to›
-Giddy Tennor
+KINGVON 
 
-📝 | Created By Giddy Tennor
-🖥️ | Base Ori By Giddy Tennor 
-📝 | Created By Giddy Tennor
-📌 |Credits Giddy Tennor 
-📱 |Chat wa:254756182478
-👑 |Github: Tennor-modz 
-✉️ |Email: giddytennor@gmail.com
+📝 | Created By kingvon
+🖥️ | Base  By KINGVON 
+📝 | Created By KINGVON 
+📌 |Credits KINGVON 
+📱 |Chat wa:254720326316
+👑 |Github: SilverTosh 
+✉️ |Email: kingvon64o@gmail.com
 */
 
 
@@ -194,15 +194,15 @@ const randomcolor = listcolor[Math.floor(Math.random() * listcolor.length)];
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By GiddyTennor\nYOUTUBE : GiddyTennor\nTelegram : giddy_tennor\nInstagram : giddytennor`, {
+say(`Create By KINGVON\nYOUTUBE : kingvon\nTelegram : silver\nInstagram : silver._.tosh`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> TYPE YOUR WHATSAPP NUMBER STARTING WITH COUNTRY CODE (Don't start with 0)  ❌\n<✓> EXAMPLE : 254104245659\n <+> Number : `);
+    const phoneNumber = await question(`<!> TYPE YOUR WHATSAPP NUMBER STARTING WITH COUNTRY CODE (Don't start with 0)  ❌\n<✓> EXAMPLE : 254720326316\n <+> Number : `);
    // Request and display the pairing code
    const code = await bot.requestPairingCode(phoneNumber.trim());
-   console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
+   console.log(color(`[ # ] link this code to WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
 }
 
 
