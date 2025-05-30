@@ -79,16 +79,3 @@
   <br>
   <b><i>✨Welcome to KINGVON MD✨ 𝐌𝐎𝐎𝐃 𝐀𝐅𝐓𝐄𝐑 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐓𝐇𝐄 𝐁𝐎𝐓</i></b>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/PvMhM3Tq7RwNOX9iZw/giphy.gif" width="350" alt="KINGVON MD Bot in Action" style="border: 5px solid #FFD700; border-radius: 10px; box-shadow: 0 0 15px #FFD700;">
-  <br><br>
-  <i><b>KINGVON MD is a savage 💥 **enjoy**</b></i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Time-UTC%2B3_EAT-orange?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Date-Today_is_May_29%2C_2025-blue?style=for-the-badge&logo=calendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Running_24%2F7-green?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
