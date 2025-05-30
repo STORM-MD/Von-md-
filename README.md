@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Next+Evolution+of+WhatsApp+Bots;KINGVON+MD+is+Live+24%2F7!;Multi-Device,+AI-Powered,+Modular,+Insane!&font=Fira+Code&center=true&width=750&height=45&color=0FFF00&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Next+Evolution+of+WhatsApp+Bots;KINGVON+MD+is+Live+24%2F7!;Multi-Device,+AI-Powered,+with+Insane+commands!&font=Fira+Code&center=true&width=750&height=45&color=0FFF00&vCenter=true" />
 </p>
 
 <p align="center">
