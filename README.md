@@ -91,3 +91,17 @@
   <img src="https://img.shields.io/badge/Date-Today_is_May_29%2C_2025-blue?style=for-the-badge&logo=calendar&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Running_24%2F7-green?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+<h1 align="center" style="font-size: 38px;">
+  <span style="color:#FF0066;">★</span>
+  <span style="color:#FF6600;">K</span>
+  <span style="color:#FFCC00;">I</span>
+  <span style="color:#33CC33;">N</span>
+  <span style="color:#3399FF;">G</span>
+  <span style="color:#6600FF;">V</span>
+  <span style="color:#FF00CC;">O</span>
+  <span style="color:#FF0033;">N</span>
+  <span style="color:#00FFFF;"> MD</span>
+  <span style="color:#FF0066;">★</span><br/>
+  <span style="font-size: 22px;">The Savage, Smart & Stylish WhatsApp Bot ⚡</span>
+</h1>
