@@ -5,7 +5,7 @@ const ascii = `⠀⠀⠀╔═════════════════�
 ╠═════════════════════════════════╣
 ║ ⭔ Creator : KINGVON            ║
 ║ ⭔ Type    : Multi-featured     ║
-║ ⭔ Status  : Ready & Running    ║
+║ ⭔ Status  : Ready & Running💯🚀║
 ║ ⭔ Mode    : ${bot.public ? '✱ Public ༣' : '✲ Self ༣'}      ║
 ║ ⭔ Users   : ${Object.keys(db.data.users).length}              ║
 ║ ⭔ Prefix  : Single             ║
