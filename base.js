@@ -464,7 +464,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    title: `𝐍𝐞𝐰 𝐖𝐚-𝐁𝐚𝐬𝐞 𝐁𝐨𝐭`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
-                   thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
+                   thumbnailUrl: 'https://files.catbox.moe/mtvyj5.jpg',
                    sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
@@ -516,7 +516,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    title: `𝐍𝐞𝐰 𝐖𝐚-𝐁𝐚𝐬𝐞 𝐁𝐨𝐭`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
-                   thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
+                   thumbnailUrl: 'https://files.catbox.moe/mtvyj5.jpg',
                    sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
@@ -598,7 +598,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    title: `𝐍𝐞𝐰 𝐖𝐚-𝐁𝐚𝐬𝐞 𝐁𝐨𝐭`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
-                   thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
+                   thumbnailUrl: 'https://files.catbox.moe/mtvyj5.jpg',
                    sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
@@ -683,7 +683,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    title: `𝐍𝐞𝐰 𝐖𝐚-𝐁𝐚𝐬𝐞 𝐁𝐨𝐭`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
-                   thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
+                   thumbnailUrl: 'https://files.catbox.moe/mtvyj5.jpg',
                    sourceUrl: `https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y`
                 }
             }
@@ -744,7 +744,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                    title: `𝐍𝐞𝐰 𝐖𝐚-𝐁𝐚𝐬𝐞 𝐁𝐨𝐭`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
-                   thumbnailUrl: 'https://img12.pixhost.to/images/855/575167528_skyzopedia.jpg',
+                   thumbnailUrl: 'https://files.catbox.moe/mtvyj5.jpg',
                    sourceUrl: ``
                 }
             }
